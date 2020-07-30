@@ -1,0 +1,2 @@
+def say_hi_somebody(name):
+    print(name+', 안녕!')
